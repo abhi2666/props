@@ -1,0 +1,2 @@
+Props in react components is a way of passing parameters into the function to make it resuable. Just like we do with functions and methods in C and C++.
+With Props you can use the same function for different inputs.
